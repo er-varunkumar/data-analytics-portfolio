@@ -1,0 +1,11 @@
+DASHBOARD VISUALIZATIONS INDEX
+========================================
+
+Available Charts:
+1. loan_status_distribution.png - Loan performance overview
+2. loan_amount_by_risk.png - Loan sizes by risk category
+3. interest_rate_by_grade.png - Interest rates by loan grade
+4. good_loan_rate_by_risk.png - Performance by risk level
+5. loan_purpose_distribution.png - Top loan purposes
+6. annual_income_distribution.png - Borrower income distribution
+7. key_metrics_summary.png - Key portfolio metrics

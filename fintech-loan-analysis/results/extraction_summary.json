@@ -1,0 +1,30 @@
+{
+  "extraction_report": {
+    "timestamp": "2025-11-22T21:32:47.384293",
+    "dataset_analyzed": "lending_club",
+    "load_info": {
+      "timestamp": "2025-11-22T21:32:39.111796",
+      "dataset_name": "lending_club",
+      "file_path": "D:\\Varun_Skills\\fintech-loan-analysis\\data\\raw\\lending_club_raw.csv",
+      "file_size_mb": 1366.2110376358032,
+      "dataset_shape": [
+        226067,
+        145
+      ],
+      "sample_used": 0.1
+    },
+    "data_dictionary": {
+      "total_columns": 145,
+      "generated_path": "D:\\Varun_Skills\\fintech-loan-analysis\\documentation\\data_dictionary.json"
+    },
+    "structure_analysis": {
+      "dataset_dimensions": {
+        "rows": 226067,
+        "columns": 145,
+        "total_cells": 32779715
+      },
+      "memory_usage": {
+        "total_mb": 557.1702470779419,
+        "average_per_column_mb": 3.842553428123737
+      },
+      "data_types_distribution": {

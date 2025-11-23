@@ -1,0 +1,8 @@
+EXPLORATORY DATA ANALYSIS REPORT
+==================================================
+Good loan rate: 86.8%
+
+RISK DISTRIBUTION:
+  Low: 48.5%
+  Medium: 43.1%
+  High: 8.4%

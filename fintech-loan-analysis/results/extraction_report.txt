@@ -1,0 +1,45 @@
+DATA EXTRACTION REPORT
+==================================================
+Date: 2025-11-22 22:13:21
+
+BASIC INFORMATION
+--------------------
+Rows: 226,067
+Columns: 145
+Memory: 557.17 MB
+
+DATA TYPES
+--------------------
+float64: 105 columns
+object: 36 columns
+int64: 4 columns
+
+MISSING VALUES
+--------------------
+Total missing: 10,867,829
+Columns with missing: 111
+Columns >50% missing: 44
+
+KEY COLUMNS CHECK
+--------------------
+[YES] loan_amnt
+[YES] term
+[YES] int_rate
+[YES] grade
+[YES] loan_status
+[YES] emp_length
+[YES] annual_inc
+Available: 7/7 key columns
+
+FIRST 10 COLUMNS
+--------------------
+1. id
+2. member_id
+3. loan_amnt
+4. funded_amnt
+5. funded_amnt_inv
+6. term
+7. int_rate
+8. installment
+9. grade
+10. sub_grade

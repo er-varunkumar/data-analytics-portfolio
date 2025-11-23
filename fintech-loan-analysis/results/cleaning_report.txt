@@ -1,0 +1,16 @@
+DATA CLEANING REPORT
+==================================================
+Date: 2025-11-22 22:19:56
+
+SUMMARY
+----------
+Original: 2,260,668 rows, 145 cols
+Final:    2,260,668 rows, 106 cols
+Reduction: 0 rows, 39 cols
+
+STEPS PERFORMED
+---------------
+- Removed 3 empty columns
+- Removed 36 columns with >80% missing
+- Converted int_rate to numeric
+- Converted revol_util to numeric
